@@ -15,7 +15,7 @@ Ensure you have the following software installed on your system:
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/ilina-jayalath/Gen-AI-BD-Search.git
+git clone https://github.com/dilina-jayalath/Gen-AI-BD-Search.git
 cd Gen-AI-BD-Search
 ```
 
