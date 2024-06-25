@@ -1,4 +1,4 @@
-# Gen-AI---SQL-Search
+# Gen-AI--SQL-Search
 
 ## Prerequisites
 
