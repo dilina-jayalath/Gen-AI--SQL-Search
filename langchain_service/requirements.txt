@@ -1,0 +1,9 @@
+langchain
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+sentence-transformers
+chromadb
+pymysql
+flask
+python-dotenv
